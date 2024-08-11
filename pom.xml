@@ -74,6 +74,8 @@
         <module>adapters/v1_20_R1-adapter</module>
         <module>adapters/v1_20_R2-adapter</module>
         <module>adapters/v1_20_R3-adapter</module>
+
+        <module>adapters/v1_21_R1-adapter</module>
     </modules>
 
     <build>

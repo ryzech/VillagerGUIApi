@@ -236,5 +236,11 @@
             <artifactId>VillagerGUIApi.v1_20_R3-adapter</artifactId>
             <version>${project.version}</version>
         </dependency>
+
+        <dependency>
+            <groupId>TeamMT</groupId>
+            <artifactId>VillagerGUIApi.v1_21_R1-adapter</artifactId>
+            <version>${project.version}</version>
+        </dependency>
     </dependencies>
 </project>
